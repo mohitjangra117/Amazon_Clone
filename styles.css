@@ -2,6 +2,7 @@ nav{
     display: flex;
     background-color:#0F1111;
     align-items: center;
+   width: 100%;
 }
 
 *{
@@ -67,9 +68,19 @@ nav{
 }
 
 .input1{
-    width:780px;
-    height: 40px;
+  max-width:780px;
+  width: 100%;
+  height: 40px;
+   
 }
+
+.search{
+    max-width:900px;
+    min-width:200px;
+    width: 100%;
+}
+
+
 
 .lang>div>img{
     width:22px;
@@ -115,5 +126,9 @@ nav{
 .cart{
     justify-content: center;
     align-items: center;
-    margin-left: 20px;
+   
 }
+
+
+
+
