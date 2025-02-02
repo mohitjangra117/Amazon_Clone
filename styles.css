@@ -17,15 +17,12 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 10px;
+  
   
     
 }
 
-.icon>img{
-    margin-left: 10px;
-    margin-right: 10px;
-}
+
 
 
 .pin{
@@ -98,9 +95,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    
+  
 }
 
 .account{
@@ -112,8 +107,7 @@ nav{
 .order{
     color: white;
     font-size: 12px;
-    margin-left: 10px;
-    margin-right: 10px;
+  
 }
 
 .cart>div>img{
